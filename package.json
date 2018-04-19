@@ -1,0 +1,26 @@
+{
+  "name": "Bamazon_CLI_app",
+  "version": "1.0.0",
+  "description": "An Amazon like storefront App for the user to shop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Teygh/Bamazon_CLI_app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Teygh/Bamazon_CLI_app/issues"
+  },
+  "homepage": "https://github.com/Teygh/Bamazon_CLI_app#readme",
+  "dependencies": {
+    "asciify": "^1.3.5",
+    "cli-table": "^0.3.1",
+    "inquirer": "^5.2.0",
+    "mysql": "^2.15.0"
+  }
+}
